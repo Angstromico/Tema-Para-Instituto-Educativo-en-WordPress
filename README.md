@@ -39,7 +39,7 @@
 ![Imagen10](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/galeria1.png)
 ## a) Mi tema te da la posibilidad de poner cuantas imagenes quieras en la galeria usando la siguiente plantilla:
 ![Imagen10](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/galeria2.png)
-## Se Pueden Poner tantas Imagenes cmo Quieras:
+## Se Pueden Poner tantas Imagenes como Quieras:
 ![Imagen11](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/galeria3.png)
 # 3) Personalizar la Pagina Nosotros
 ## a) La pagina que escojas para ser ti pagina "Nosotros" debe utilizar la siguiente plantilla hecha para ello:
