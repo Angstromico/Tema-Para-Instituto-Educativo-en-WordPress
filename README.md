@@ -63,7 +63,7 @@
  #### El Post Type Profesores te Permite agregar profesores y/o instructores, el de "Editar Clases" te permite agregar clases y/o cursos    personalizados.
 ## b) El Post Type Profesores luce así:
 ![Imagen19](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/post-profesores.png)
-#### En el se pueden ver los profesores que hayas agregado si le das agregar Nuevo Puedes Darle Nombre, una descripción e imagen como se en las siguientes imagenes:
+#### En el se pueden ver los profesores que hayas agregado si le das agregar Nuevo Puedes Darle Nombre, una descripción e imagen como se ve en las siguientes imagenes:
 ![Imagen20](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/profesores1.png)
 ![Imagen21](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/profesores2.png)
 ## c) El Post Type de Clases o Cursos se ve así:
@@ -79,12 +79,15 @@
  #### Se Pueden Agreagar Cuantos Instructores se quiera Agregar por Clase, yo agregue solo uno pero se pueden más.
  ![Imagen27](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/clase10.png)
 ## d) Agregar la Plantilla de Clases a una Pagina, eso se hace agregando la plantlla clases así:
-![Imagen27](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/clase1.png)
+![Imagen28](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/clases1.png)
  #### Al hacerlo podras ver en tu pagina tarjetas con la información de tus clases asi:
-![Imagen28](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/clase3.png)
-![Imagen29](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/clase4.png)
+![Imagen29](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/clase3.png)
+![Imagen30](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/clase4.png)
  #### Al darle al botón de más información te mostrara una pagina con la informaciń del curso que hayas determinado así:
- ![Imagen30](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/clase5.png)
+ ![Imagen31](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/clase5.png)
+ # Ajustes a Logos y Colores del Tema:
+ #### En el Siguiente Panel se puede Elegir que Logo, que separador y que clres quieres que tenga tu pagina de Instituto Educativo:
+ ![Imagen32](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/ajustes.png)
  
 
 
