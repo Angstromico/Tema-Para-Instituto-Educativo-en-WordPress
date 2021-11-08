@@ -1,0 +1,203 @@
+/*
+Theme Name: Instituto Educativo
+Theme URI:
+Author: Manuel Esteban Morales Zuarez
+Author URI: 
+Description: Un Tema para Institutos Educativos
+Version: 1.0
+License: GNU General Public License v2 or Later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: Instituto 
+*/
+:root {
+  --primary: #34568b;
+  --secundary: #92a8d1;
+  --third: #939597;
+  --four: #e0b589;
+}
+/*Generals*/
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #303030;
+}
+p {
+  font-weight: 300;
+  line-height: 2em;
+  font-size: 1em;
+}
+/* header */
+.nav-link {
+  color: black;
+}
+.nav-link:hover {
+  color: var(--four);
+}
+.nav-link.active {
+  color: var(--four);
+  border-bottom: 1px solid var(--four);
+}
+/*Imagenes de Fondo */
+.imagen-destacada {
+  height: 24em;
+  background-size: cover;
+}
+.nosotros-bg {
+  background-image: url(../img/nosotros.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.separador::after {
+  content: '';
+  display: block;
+  width: 1.5em;
+  height: 1.5em;
+  margin: 0 auto;
+  background-image: url(../img/graduation.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/*index*/
+.alto {
+  height: 30em;
+}
+@media (min-width: 768px) {
+  .alto {
+    height: 45em;
+  }
+}
+.bg-us,
+.bg-us2 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+}
+.bg-us {
+  background-image: url(../img/nosotros.jpg);
+}
+.bg-us2 {
+  background-image: url(../img/estudiantes.jpg);
+}
+.imagen-superior .contenido {
+  border-top: 1px solid white;
+  border-bottom: 1px solid white;
+}
+.otra-imagen .contenido {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+@media (min-width: 768px) {
+  .otra-imagen .bg-secondary {
+    order: 2;
+  }
+}
+body.index .clases {
+  background-color: #f5f5f5;
+}
+.profesional {
+  background-image: url(../img/grasduado.jpeg);
+  background-size: cover;
+  background-position: center center;
+}
+.profesional .row {
+  height: 38em;
+}
+.profesional .contenido h2 {
+  font-weight: bold;
+  font-size: 2.4rem;
+}
+.profesinal .tamaño {
+  font-size: 1.8em;
+  line-height: 3em;
+}
+/* Nosotroa */
+blockquote.subtitulo {
+  font-size: 1.6rem;
+  color: black;
+  font-style: italic;
+  font-weight: 100;
+  border-left: 0.2em solid #f46669;
+}
+.contenido-nosotros {
+  margin-top: -5rem;
+  border: 1px slid #e1e1e1;
+  position: relative;
+  z-index: 100;
+}
+.imagen {
+  width: auto;
+  height: 8rem;
+}
+.nosotros .informacion h3 {
+  font-weight: 300;
+  font-size: 1.6em;
+}
+/* Blog */
+.btn-primary {
+  background-color: #f46669;
+  border-color: #f46669;
+}
+.btn-primary:hover {
+  background-color: #cf5052;
+}
+.entrada a {
+  color: #f46669;
+}
+.contenido-entrada .meta p {
+  font-weight: bold;
+}
+.contenido-entrada .meta span {
+  color: #f46669;
+}
+.text-light {
+  color: white !important;
+}
+/* Sidebar */
+.bg-primary {
+  background-color: #f46669 !important;
+}
+aside .card {
+  border: none;
+}
+.card h3 {
+  font-size: 1.5rem;
+  text-align: center;
+  color: black;
+  font-weight: 500;
+}
+.card-subtitle {
+  color: #f46669;
+  font-weight: 400;
+}
+aside .card-footer {
+  background-color: #c7c57d;
+  text-align: center;
+}
+aside .card-footer a {
+  color: var(--primary);
+}
+/* Clases */
+.card-img-top {
+  width: auto;
+  height: 200px;
+}
+@media (min-width: 768px) {
+  .card-img-top {
+    height: 250px;
+  }
+}
+/*Contacto*/
+.imagen-destacada2 {
+  height: 35em;
+  background-image: url(../img/manos.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+/*footer*/
+.footer {
+  border-bottom: 10px solid var(--four);
+}
+.copyright {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
