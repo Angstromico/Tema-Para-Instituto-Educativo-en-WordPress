@@ -27,7 +27,7 @@
 ![Imagen6](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/blog3.png)
  #### La Imagen que cargues en conjunto con el texto se verían así:
 ![Imagen7](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/principal5.png)
-## Persnalización del Blog
+## Personalización del Blog
  #### Antes que nada cabe a destacar que inclui en el blog cerca del encabezado una pequeña presentación que se ve así:
  ![Imagen8](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/blog1.png)
  
@@ -53,7 +53,7 @@
 ![Imagen15](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/nosotros4.png)
 ## b.2) Elección de imagenes para iconos:
 ![Imagen15](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/nosotros5.png)
-  Imagen que puede ser eliminada cuand se desee.
+  #### Imagen que puede ser eliminada cuando se desee.
 ![Imagen16](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/nosotros6.png)
  #### La plantilla tambien te da la opción de agregar cuantos grupos de iconos de presentación desees
  ![Imagen17](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/nosotros7.png)
