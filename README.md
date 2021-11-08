@@ -88,6 +88,6 @@
  # Ajustes a Logos y Colores del Tema:
  #### En el Siguiente Panel se puede Elegir que Logo, que separador y que colores quieres que tenga tu pagina de Instituto Educativo:
  ![Imagen32](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/ajustes.png)
- # [Ve un sitio con el tema Instalad Aquí](https://tema-instituto-educativo.bodegones.website/)
+ # [Ve un sitio con el tema Instalado Aquí](https://tema-instituto-educativo.bodegones.website/)
 
 
