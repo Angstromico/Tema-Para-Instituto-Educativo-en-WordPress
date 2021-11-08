@@ -42,7 +42,7 @@
 ## Se Pueden Poner tantas Imagenes como Quieras:
 ![Imagen11](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/galeria3.png)
 # 3) Personalizar la Pagina Nosotros
-## a) La pagina que escojas para ser ti pagina "Nosotros" debe utilizar la siguiente plantilla hecha para ello:
+## a) La pagina que escojas para ser tu pagina "Nosotros" debe utilizar la siguiente plantilla hecha para ello:
 ![Imagen12](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/nosotros1.png)
  #### Esta plantilla trae por defecto una frase de presentación que se puede ver en la siguiente imagen:
  ![Imagen13](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/nosotros2.png)
@@ -58,7 +58,7 @@
  #### La plantilla tambien te da la opción de agregar cuantos grupos de iconos de presentación desees
  ![Imagen17](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/nosotros7.png)
 # Personalización de Pagina de Clases
-## a) Agregar Agregar Clases e Instructores. La siguiente imagen muestra dos Post Types Creados con ese proposito.
+## a) Agregar Clases e Instructores. La siguiente imagen muestra dos Post Types Creados con ese proposito.
 ![Imagen18](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/Post-Types.png)
  #### El Post Type Profesores te Permite agregar profesores y/o instructores, el de "Editar Clases" te permite agregar clases y/o cursos    personalizados.
 ## b) El Post Type Profesores luce así:
@@ -71,7 +71,7 @@
  #### En el post se ven los nombres y las demás caracteristicas de cada clase o curso.
  Cuando creas una clase nueva al igual que un instructor nuevo puedes Darle su nombre y descripción de la misma manera como se muestra en la siguiente imagen:
 ![Imagen23](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/clase2.png)
- #### Pero esas no sn las unicas opciones disponibles, tienes varias opciones de personalización como se mostrara en las siguientes imagenes:
+ #### Pero esas no son las unicas opciones disponibles, tienes varias opciones de personalización como se mostrara en las siguientes imagenes:
  #### Estas Imagenes son la información de la tarjeta y de la Clase Original que se empleara en que se muestra en la pagina de clases
  ![Imagen24](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/clase6.png)
  ![Imagen25](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/clase8.png)
