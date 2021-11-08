@@ -22,6 +22,20 @@
 
 ## d) La Pagina de Inicio tambien permite agregar un imagen para la zona de Contacto de la siguiente manera:
 ![Imagen5](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/principal4.png)
+
 Esa zona tambien tiene texto Personalizable.
+![Imagen6](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/blog3.png)
  La Imagen que cargues en conjunto con el texto se verían así:
-![Imagen6](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/principal5.png)
+![Imagen7](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/principal5.png)
+## Persnalización del Blog
+ Antes que nada cabe a destacar que inclui en el blog cerca del encabezado una pequeña presentación que se ve así:
+ ![Imagen8](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/blog1.png)
+ 
+  Esa presentación puede editarse de la siguiente manera cuando se modifica la pagina del Blog:
+## a)Modificar encabezado Blog:
+![Imagen9](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/blog2.png)
+ De esa sencilla manera puedes agregar un eslogan a tu sitio.
+## b)Modificar la Galeria
+![Imagen10](https://github.com/Angstromico/Tema-Para-Instituto-Educativo-en-WordPress/blob/master/imagenes%20tema/galeria1.png)
+
+ 
